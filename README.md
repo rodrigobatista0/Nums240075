@@ -31,9 +31,3 @@ Exemplo: `9996` → 9+9+9+6 = 33, sem nenhum 3 → ✅ é 33-Zero-3
 1. Abrir o projeto no Visual Studio
 2. Compilar e executar (F5)
 
-## Informações
-
-- **Aluno:** 240075  
-- **Curso:** TGPSI  
-- **Disciplina:** PSI  
-- **Ano letivo:** 2025/2026
